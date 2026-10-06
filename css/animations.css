@@ -1,0 +1,1 @@
+@keyframes spin{to{transform:rotate(340deg)}}@keyframes blink{50%{opacity:0}}@keyframes scan{0%{left:-30%}50%,100%{left:100%}}@keyframes float{50%{transform:translateY(-9px)}}.reveal{opacity:0;transform:translateY(25px);transition:opacity .8s ease,transform .8s ease}.reveal.visible{opacity:1;transform:none}.delay-1{transition-delay:.2s}
